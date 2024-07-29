@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**estevaocraque/estevaocraque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+meu nome é nikolas
+tenho 15 anos
+estudo na escola oscarlina
+moro em itatiba
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
